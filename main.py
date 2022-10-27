@@ -1,5 +1,7 @@
 #Unlimited deck size. You can draw any card. No joker. 
 #If you draw ace and it exceeds 21, its value turns into 1.
+#The cards in the list have equal probability of being drawn.
+#Cards are not removed from the deck as they are drawn.
 
 from replit import clear
 from art import logo
